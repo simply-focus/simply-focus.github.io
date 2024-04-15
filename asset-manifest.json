@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b182f876.css",
+    "main.js": "/static/js/main.61850102.js",
+    "static/js/109.eaf495f2.chunk.js": "/static/js/109.eaf495f2.chunk.js",
+    "static/media/background.jpg": "/static/media/background.bbedb6faadf0a223e281.jpg",
+    "static/media/mobile-bg.jpg": "/static/media/mobile-bg.06447771038e07706f64.jpg",
+    "static/media/wedding.jpg": "/static/media/wedding.a0202be1aebca8b46515.jpg",
+    "static/media/alex-brush.regular.ttf": "/static/media/alex-brush.regular.b50947ef756f43126a52.ttf",
+    "index.html": "/index.html",
+    "main.b182f876.css.map": "/static/css/main.b182f876.css.map",
+    "main.61850102.js.map": "/static/js/main.61850102.js.map",
+    "109.eaf495f2.chunk.js.map": "/static/js/109.eaf495f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b182f876.css",
+    "static/js/main.61850102.js"
+  ]
+}
